@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Felix commits are awesome
+=======
+Ramon commit
+>>>>>>> ab826d32b87cfbdfe93006c07e279f4dfeae9b29
